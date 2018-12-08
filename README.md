@@ -12,7 +12,7 @@ signType: rc4-md5
 
 加密方式选rc4-md5是因为它性能相对较好。iOS客户端只手动配置这几个就可以。
 
-# iOS
+## iOS
 iOS端好用的socks代理客户端推荐SuperRocket-SSR，app store搜“SuperRocket”下载即可（收费￥6.00）。
 ![SuperRocket-SSR](https://upload-images.jianshu.io/upload_images/574394-ebf2dc85e586d9c1.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -20,10 +20,10 @@ iOS端好用的socks代理客户端推荐SuperRocket-SSR，app store搜“SuperR
 ![手动添加配置界面](https://upload-images.jianshu.io/upload_images/574394-bfdc84fabfa5965f.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 配置完成后，。首页点击连接就可以了。大部分not found app都可以用。
-# Android
+## Android
 没法试；没成功的。
 
-# Mac OS端
+## Mac OS端
 Mac端找了好久的客户端，终于在gayhub找到一个凑合能用(下)的，为了防止原仓库删掉，专门fork了一份，地址：[ShadowSocksX](https://github.com/manyangyang/ShadowSocksX)。
 ![电脑客户端，包含了Mac和windows](https://upload-images.jianshu.io/upload_images/574394-bfe70220b1cebd2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -38,6 +38,6 @@ windows的那个exe我没试，只试了Mac的app，可以用。
 ![启动客户端](https://upload-images.jianshu.io/upload_images/574394-34ee9bbfe6b3fc74.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 启动后就可以了。看视频可能会卡。其他还挺快的。
-# Windows端
+## Windows端
 windows客户端也在上面那个连接里（[ShadowSocksX](https://github.com/manyangyang/ShadowSocksX)）。下载exe文件安装，配置步骤和Mac端的类似。我没试。
 windows还有个：[ShadowSocksX-windows-release](https://github.com/shadowsocks/shadowsocks-windows/releases)，但是下不动。
