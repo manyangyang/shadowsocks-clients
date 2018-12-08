@@ -1,5 +1,5 @@
 # shadowsocks-clients（各shadowsocks客户端安装）
-抽空搭了个s河蟹s河蟹. 现在要用的话，需要在各个端安装对应的client。但是由于某些原因，安装客户端时会遇到一些问题。
+抽空搭了个shadowsocks. 现在要用的话，需要在各个端安装对应的client。但是由于某些原因,百度、知乎等可能都搜不到有效资料，安装客户端时会遇到一些问题。
 以下是各个平台的使用方法。跟我申请端口密码等配置(现在不再配了，满了，人多了怕速度慢)。主要拿到的配置有：
 
 ```
@@ -24,7 +24,7 @@ iOS端好用的socks代理客户端推荐SuperRocket-SSR，app store搜“SuperR
 没法试；没成功的。
 
 # Mac OS端
-Mac端找了好久的客户端，终于在gayhub找到一个凑合能用的，为了防止原仓库删掉，专门fork了一份，地址：[电脑客户端文件](https://github.com/manyangyang/ShadowSocksX)。
+Mac端找了好久的客户端，终于在gayhub找到一个凑合能用(下)的，为了防止原仓库删掉，专门fork了一份，地址：[ShadowSocksX](https://github.com/manyangyang/ShadowSocksX)。
 ![电脑客户端，包含了Mac和windows](https://upload-images.jianshu.io/upload_images/574394-bfe70220b1cebd2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 windows的那个exe我没试，只试了Mac的app，可以用。
@@ -34,10 +34,10 @@ windows的那个exe我没试，只试了Mac的app，可以用。
 安装完成后，打开app，填写之前拿的配置，填好就行。
 ![简单的配置](https://upload-images.jianshu.io/upload_images/574394-1b54fa4268da6b29.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-配置完成后，在顶部菜单栏点击“打开河蟹”，模式建议选择“自动河蟹模式”，服务器选择刚才配好的代理就行。
+配置完成后，在顶部菜单栏点击“打开河蟹”，模式建议选择“自动代理模式”，服务器选择刚才配好的代理就行。
 ![启动客户端](https://upload-images.jianshu.io/upload_images/574394-34ee9bbfe6b3fc74.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 启动后就可以了。看视频可能会卡。其他还挺快的。
 # Windows端
-windows客户端也在上面那个连接里（[河蟹-X](https://github.com/manyangyang/ShadowSocksX)）。下载exe文件安装，配置步骤和Mac端的类似。我没试。
-windows还有个：[河蟹-windows-release](https://github.com/shadowsocks/shadowsocks-windows/releases)，但是下不动。
+windows客户端也在上面那个连接里（[ShadowSocksX](https://github.com/manyangyang/ShadowSocksX)）。下载exe文件安装，配置步骤和Mac端的类似。我没试。
+windows还有个：[ShadowSocksX-windows-release](https://github.com/shadowsocks/shadowsocks-windows/releases)，但是下不动。
