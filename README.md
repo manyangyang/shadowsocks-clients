@@ -14,6 +14,7 @@ signType: rc4-md5
 
 ## iOS
 iOS端好用的socks代理客户端推荐SuperRocket-SSR，app store搜“SuperRocket”下载即可（收费￥6.00）。
+<img src="https://upload-images.jianshu.io/upload_images/574394-ebf2dc85e586d9c1.jpeg" width = 30% height = 30% alt="SuperRocket-SSR" align=center />
 ![SuperRocket-SSR](https://upload-images.jianshu.io/upload_images/574394-ebf2dc85e586d9c1.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 下载完成后，手动配置拿到的参数。
@@ -26,9 +27,7 @@ iOS端好用的socks代理客户端推荐SuperRocket-SSR，app store搜“SuperR
 链接: [shadowsocks安卓客户端](https://pan.baidu.com/s/1wvhvEx78HpP0Bh0lbtCGxw) 
 提取码: `f19s` 
 
-<img src="https://upload-images.jianshu.io/upload_images/574394-f7a354166dd0d7cf.jpeg" width = 30% height = 30% />
-
-![只配置服务器IP，端口，密码和加密方式就行](https://upload-images.jianshu.io/upload_images/574394-f7a354166dd0d7cf.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<img src="https://upload-images.jianshu.io/upload_images/574394-f7a354166dd0d7cf.jpeg" width = 30% height = 30% alt="简单设置下" align=center />
 
 ## Mac OS端
 Mac端找了好久的客户端，终于在gayhub找到一个凑合能用(下)的，为了防止原仓库删掉，专门fork了一份，地址：[ShadowSocksX](https://github.com/manyangyang/ShadowSocksX)。
