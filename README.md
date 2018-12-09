@@ -14,11 +14,10 @@ signType: rc4-md5
 
 ## iOS
 iOS端好用的socks代理客户端推荐SuperRocket-SSR，app store搜“SuperRocket”下载即可（收费￥6.00）。
-<img src="https://upload-images.jianshu.io/upload_images/574394-ebf2dc85e586d9c1.jpeg" width = 30% height = 30% alt="SuperRocket-SSR" align=center />
-![SuperRocket-SSR](https://upload-images.jianshu.io/upload_images/574394-ebf2dc85e586d9c1.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<img src="https://upload-images.jianshu.io/upload_images/574394-ebf2dc85e586d9c1.jpeg" width = 30% height = 30% alt="SuperRocket-SSR" div align=center/>
 
 下载完成后，手动配置拿到的参数。
-![手动添加配置界面](https://upload-images.jianshu.io/upload_images/574394-bfdc84fabfa5965f.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<img src="https://upload-images.jianshu.io/upload_images/574394-bfdc84fabfa5965f.jpeg" width = 30% height = 30% alt="手动添加配置界面" div align=center />
 
 配置完成后，。首页点击连接就可以了。大部分not found app都可以用。
 ## Android
@@ -27,21 +26,21 @@ iOS端好用的socks代理客户端推荐SuperRocket-SSR，app store搜“SuperR
 链接: [shadowsocks安卓客户端](https://pan.baidu.com/s/1wvhvEx78HpP0Bh0lbtCGxw) 
 提取码: `f19s` 
 
-<img src="https://upload-images.jianshu.io/upload_images/574394-f7a354166dd0d7cf.jpeg" width = 30% height = 30% alt="简单设置下" align=center />
+<img src="https://upload-images.jianshu.io/upload_images/574394-f7a354166dd0d7cf.jpeg" width = 30% height = 30% alt="简单设置下" div align=center/>
 
 ## Mac OS端
 Mac端找了好久的客户端，终于在gayhub找到一个凑合能用(下)的，为了防止原仓库删掉，专门fork了一份，地址：[ShadowSocksX](https://github.com/manyangyang/ShadowSocksX)。
-![电脑客户端，包含了Mac和windows](https://upload-images.jianshu.io/upload_images/574394-bfe70220b1cebd2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<img src="https://upload-images.jianshu.io/upload_images/574394-bfe70220b1cebd2d.png" width = 50% height = 50% alt="各电脑客户端" div align=center/>
 
 windows的那个exe我没试，只试了Mac的app，可以用。
 要是没有git的同学，可以直接下载，点击dmg文件，下载就行。
-![点击下载按钮，下载安装即可](https://upload-images.jianshu.io/upload_images/574394-d34d80e45faa721e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<img src="https://upload-images.jianshu.io/upload_images/574394-d34d80e45faa721e.png" width = 50% height = 50% alt="点击下载" div align=center/>
 
 安装完成后，打开app，填写之前拿的配置，填好就行。
-![简单的配置](https://upload-images.jianshu.io/upload_images/574394-1b54fa4268da6b29.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<img src="https://upload-images.jianshu.io/upload_images/574394-1b54fa4268da6b29.png" width = 50% height = 50% alt="简单配置" div align=center/>
 
 配置完成后，在顶部菜单栏点击“打开shadowsocks”，模式建议选择“自动代理模式”，服务器选择刚才配好的代理就行。
-![启动客户端](https://upload-images.jianshu.io/upload_images/574394-34ee9bbfe6b3fc74.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<img src="https://upload-images.jianshu.io/upload_images/574394-34ee9bbfe6b3fc74.png" width = 50% height = 50% alt="启动客户端" div align=center/>
 
 启动后就可以了。看东西基本秒开的（高清视频可能会缓冲下）。
 ## Windows端
