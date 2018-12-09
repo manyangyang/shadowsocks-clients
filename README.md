@@ -34,10 +34,10 @@ windows的那个exe我没试，只试了Mac的app，可以用。
 安装完成后，打开app，填写之前拿的配置，填好就行。
 ![简单的配置](https://upload-images.jianshu.io/upload_images/574394-1b54fa4268da6b29.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-配置完成后，在顶部菜单栏点击“打开河蟹”，模式建议选择“自动代理模式”，服务器选择刚才配好的代理就行。
+配置完成后，在顶部菜单栏点击“打开shadowsocks”，模式建议选择“自动代理模式”，服务器选择刚才配好的代理就行。
 ![启动客户端](https://upload-images.jianshu.io/upload_images/574394-34ee9bbfe6b3fc74.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-启动后就可以了。看视频可能会卡。其他还挺快的。
+启动后就可以了。看东西基本秒开的（高清视频可能会缓冲下）。
 ## Windows端
 windows客户端也在上面那个连接里（[ShadowSocksX](https://github.com/manyangyang/ShadowSocksX)）。下载exe文件安装，配置步骤和Mac端的类似。我没试。
 windows还有个：[ShadowSocksX-windows-release](https://github.com/shadowsocks/shadowsocks-windows/releases)，但是下不动。
