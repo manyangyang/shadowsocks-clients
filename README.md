@@ -21,7 +21,12 @@ iOS端好用的socks代理客户端推荐SuperRocket-SSR，app store搜“SuperR
 
 配置完成后，。首页点击连接就可以了。大部分not found app都可以用。
 ## Android
-没法试；没成功的。
+下载链接：[下载shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases). 如果不知道自己该下哪个，下载universal的版本就行。
+如果这个下不动，可以到百度网盘下载.
+链接: [shadowsocks安卓客户端](https://pan.baidu.com/s/1wvhvEx78HpP0Bh0lbtCGxw) 
+提取码: `f19s` 
+
+![只配置服务器IP，端口，密码和加密方式就行](https://upload-images.jianshu.io/upload_images/574394-f7a354166dd0d7cf.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## Mac OS端
 Mac端找了好久的客户端，终于在gayhub找到一个凑合能用(下)的，为了防止原仓库删掉，专门fork了一份，地址：[ShadowSocksX](https://github.com/manyangyang/ShadowSocksX)。
