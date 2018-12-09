@@ -26,6 +26,8 @@ iOS端好用的socks代理客户端推荐SuperRocket-SSR，app store搜“SuperR
 链接: [shadowsocks安卓客户端](https://pan.baidu.com/s/1wvhvEx78HpP0Bh0lbtCGxw) 
 提取码: `f19s` 
 
+<img src="https://upload-images.jianshu.io/upload_images/574394-f7a354166dd0d7cf.jpeg" width = 30% height = 30% />
+
 ![只配置服务器IP，端口，密码和加密方式就行](https://upload-images.jianshu.io/upload_images/574394-f7a354166dd0d7cf.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## Mac OS端
