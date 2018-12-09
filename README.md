@@ -38,7 +38,7 @@ Mac端找了好久的客户端，终于在gayhub找到一个凑合能用(下)的
 windows的那个exe我没试，只试了Mac的app，可以用。
 要是没有git的同学，可以直接下载，点击dmg文件，下载就行。
 
-<img src="https://upload-images.jianshu.io/upload_images/574394-d34d80e45faa721e.png" width = 50% height = 50% alt="点击下载" div align=center/>
+<img src="https://upload-images.jianshu.io/upload_images/574394-d34d80e45faa721e.png" width = 80% height = 80% alt="点击下载" div align=center/>
 
 安装完成后，打开app，填写之前拿的配置，填好就行。
 
